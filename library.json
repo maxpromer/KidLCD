@@ -11,5 +11,5 @@
   "url": "https://github.com/mrkaleArduinoLib/LiquidCrystal_I2C.git",
   "version": "2.6.1",
   "platform": ["arduino-esp32"],
-  "image" : "/static/display.jpg"
+  "image" : "/static/display.png"
 }
